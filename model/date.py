@@ -2,6 +2,8 @@ from datetime import date
 
 today = date.today()
 
+
+### ahmed
 def day_name():
     today = date.today()
     # dd/mm/YY
